@@ -14,5 +14,7 @@
   </tr>
 </table>
 
-3. architecture
+
+2. architecture
 <img src="https://github.com/user-attachments/assets/f473795b-1404-4ecd-baef-bbcfbeacdbc7" alt="Description" width="600" height="900"/>
+
