@@ -1,13 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-### 안녕!
+## 안녕하세요!! 👋 대주주가 되고싶은 프로젝트 대주주 클럽 프로젝트 오신걸 환영합니다!! 
+###  현재 orgnaization 을 대주주클럽이라고 한 이유는 코인과 주식을 함께 아울러 대시보드를 만들어 대주주를 꿈꾸는 의미에서 시작했습니다..!! 
