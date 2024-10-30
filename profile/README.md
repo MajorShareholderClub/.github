@@ -14,7 +14,15 @@
   </tr>
 </table>
 
+2. storage
+<Table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/user-attachments/assets/d24a9ae0-a55a-4133-aee0-b1397ad3332a" alt="storage image 1" witde="400">
+    </td>
+  </tr>
+</Table>
 
-2. architecture
+3. architecture
 <img src="https://github.com/user-attachments/assets/f473795b-1404-4ecd-baef-bbcfbeacdbc7" alt="Description" width="600" height="900"/>
 
