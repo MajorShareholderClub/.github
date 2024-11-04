@@ -11,8 +11,8 @@
     <td style="text-align: center;">
       <img src="https://github.com/user-attachments/assets/ebb4a15e-9532-48c8-b237-cbfb7764663b" alt="Dashboard Image 2" width="400">
     </td>
-    <td style="text-align: center;>
-      <img src="https://github.com/user-attachments/assets/4fb961ce-fa2b-461a-99ea-2bc028c13635" alt="Dashboard Image 2" width="400">
+    <td style="text-align: center;">
+      <img src="https://github.com/user-attachments/assets/4fb961ce-fa2b-461a-99ea-2bc028c13635" alt="Dashboard Image 3" width="400">
     </td>
   </tr>
 </table>
