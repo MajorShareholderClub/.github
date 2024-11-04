@@ -11,6 +11,9 @@
     <td style="text-align: center;">
       <img src="https://github.com/user-attachments/assets/ebb4a15e-9532-48c8-b237-cbfb7764663b" alt="Dashboard Image 2" width="400">
     </td>
+    <td style="text-align: center;>
+      <img src="https://github.com/user-attachments/assets/4fb961ce-fa2b-461a-99ea-2bc028c13635" alt="Dashboard Image 2" width="400">
+    </td>
   </tr>
 </table>
 
@@ -18,7 +21,7 @@
 <Table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/d24a9ae0-a55a-4133-aee0-b1397ad3332a" alt="storage image 1" witde="400">
+      <img src="https://github.com/user-attachments/assets/8cd8f678-3888-4ede-ba7c-1fbbd54c474d" alt="storage image 1" witde="400">
     </td>
   </tr>
 </Table>
